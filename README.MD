@@ -11,7 +11,7 @@ I'm Romain Duc ! A passionate software developer residing in Bron, France :fr:.
 I love delving into coding projects, particularly those that involve problem-solving and creativity. My focus primarily revolves around web development.
 
 ## Let's connect :arrow_down:
-- :envelope: [Email](mailto:duc.romain@yahoo.com)
+- :envelope: [Email](mailto:duc.romain@yahoo.com?subject=Hello%20Romain,%20From%20Github)
 - [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/760885714853298266)
   
 
