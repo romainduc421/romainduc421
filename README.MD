@@ -13,6 +13,7 @@ I love delving into coding projects, particularly those that involve problem-sol
 ## Let's connect :arrow_down:
 - :envelope: [Email](mailto:duc.romain@yahoo.com?subject=Hello%20Romain,%20From%20Github)
 - [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/760885714853298266)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/romainduc)
   
 
 ## 💎 Show your support:
